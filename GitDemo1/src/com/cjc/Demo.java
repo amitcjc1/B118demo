@@ -12,6 +12,12 @@ public class Demo
 		System.out.println("M2===Git");
 	}
 	
+	public void m3()
+	{
+		System.out.println("M3===Git");
+	}
+	
+	
 	
 public static void main(String[] args) {
 	
