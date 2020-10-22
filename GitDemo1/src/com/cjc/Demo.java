@@ -7,6 +7,10 @@ public class Demo
 		System.out.println("M1===Git");
 	}
 	
+	public void m2()
+	{
+		System.out.println("M2===Git");
+	}
 	
 	
 public static void main(String[] args) {
